@@ -1,0 +1,11 @@
+/* app/globals.css */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+button:focus,
+a:focus {
+  outline: 2px solid #ff9800;
+  outline-offset: 2px;
+}
